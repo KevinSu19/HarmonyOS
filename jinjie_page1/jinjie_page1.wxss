@@ -1,0 +1,237 @@
+/* pages/jinjie_page1/jinjie_page1.wxss */
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+}
+.title1
+{
+  text-align: center;
+  font-size: 60rpx;
+}
+.l1
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:100rpx;
+}
+.l2
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:130rpx;
+}
+.l3
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:160rpx;
+}
+.l4
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:190rpx;
+}
+.l5
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:220rpx;
+}
+.l6
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:250rpx;
+}
+.l7
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:280rpx;
+}
+.l8
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:50rpx;
+  top:310rpx;
+}
+.r1
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-920rpx;
+}
+.r2
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-890rpx;
+}
+.r3
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-860rpx;
+}
+.r4
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-830rpx;
+}
+.r5
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-800rpx;
+}
+.r6
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-770rpx;
+}
+.r7
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-740rpx;
+}
+.r8
+{
+  text-align: center;
+  font-size: 45rpx;
+  width:280rpx;
+  height: 150rpx;
+  border-radius: 30rpx;
+  background: rgba(255, 255, 255, 0.534);
+  border:10rpx solid rgba(151, 151, 151, 0.5);
+
+  position:relative;
+  left:380rpx;
+  top:-710rpx;
+}
