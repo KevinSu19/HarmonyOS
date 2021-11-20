@@ -1,0 +1,19 @@
+<!--pages/gaoji_page1/gaoji_page1.wxml-->
+<image class='background' src="../../images/putong_bg.jpg" mode="aspectFill"></image>
+<view class="content">
+  <view class="title1">
+    <text>高级篇</text>
+  </view>
+  <view class="l1"></view>
+  <view class="l2"></view>
+  <view class="l3"></view>
+  <view class="l4"></view>
+  <view class="l5"></view>
+  <view class="l6"></view>
+  <view class="r1"></view>
+  <view class="r2"></view>
+  <view class="r3"></view>
+  <view class="r4"></view>
+  <view class="r5"></view>
+  <view class="r6"></view>
+</view>

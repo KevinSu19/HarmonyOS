@@ -1,0 +1,5 @@
+<!--pages/firstpage/firstpage.wxml-->
+<image class='background' src="../../images/fengmian.png" mode="aspectFill"></image>
+<view class="start" bindtap="nextPage1">
+Start
+</view>

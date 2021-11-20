@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/firstpage/firstpage",
+    "pages/page1/page1",
+    "pages/jinjie_page1/jinjie_page1",
+    "pages/gaoji_page1/gaoji_page1",
+    "pages/putong_page1/putong_page1",
+    "pages/shouye/shouye"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "HarmonyOS Helper",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents"
+}
