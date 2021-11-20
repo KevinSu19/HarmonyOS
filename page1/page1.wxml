@@ -1,0 +1,43 @@
+<!--pages/page1/page1.wxml-->
+<view>
+     <view>
+        <view class="weui-search-bar">
+            <view class="weui-search-bar__form">
+            <!-- 搜索框 -->
+                <view class="weui-search-bar__box">
+                    <icon class="weui-icon-search_in-box" type="search" size="14"></icon>
+                    <input type="text" class="weui-search-bar__input" placeholder="请输入搜索内容"/>
+                </view>
+            </view>
+            <!-- 搜索按钮,调用搜索查询方法 -->
+            <view class="weui-search-bar__cancel-btn" bindtap='方法名a'>搜索</view>
+        </view>
+    </view>
+</view>
+
+
+
+<view>
+<video style="height:240px;width:750rpx;" muted="{{false}}" src="cloud://cloud1-1g6ytsuc508e32f7.636c-cloud1-1g6ytsuc508e32f7-1307713551/video/123.mp4"
+></video></view>
+
+
+<image class='background' src="../../images/background.jpg" mode="aspectFill"></image>
+<view class="content">
+  <view class="one" bindtap="nextPTPage1">
+    <text>\n</text>
+	  <text>基础篇</text>
+  </view>
+  <view class="two" bindtap="nextJJPage1">
+    <text>\n</text>
+	  <text>进阶篇</text>
+  </view>
+  <view class="three" bindtap="nextGJPage1">
+    <text>\n</text>
+	  <text>高级篇</text>
+  </view>
+  <view class="four">
+    <text>\n</text>
+	  <text>专题篇</text>
+  </view>
+</view>

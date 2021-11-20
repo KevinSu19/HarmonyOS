@@ -1,0 +1,5 @@
+
+<view class="content"></view>
+  <image class='background' src="../../images/fengmian.png" mode="aspectFill"></image>
+<!--detail.wxml-->
+<view class="start" bindtap="nextPTPage1">start</view>
